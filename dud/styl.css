@@ -1,0 +1,39 @@
+#Naglowek{
+    height: 50px;
+    color: gold;
+    background-color:rgb(207, 130, 143);
+    text-align: center;
+    font-size: normal;
+    padding-top:10px ;
+}
+#Lewa_Strona{
+    height:400px ;
+    float: left;
+    background-color: rosybrown;
+    color: goldenrod;
+width: 40%;
+text-align: center;
+}
+#Prawa_Strona{
+    height: 226px;
+    background-color: tan;
+    color: gold;
+width: 60%;
+float: right;
+text-align: center;
+
+}
+#Prawa_Strona2{
+   background-color: tan;
+    padding: 5px;
+    padding-left: 500px;
+}
+#Stopka{
+    padding-top: 30px;
+    color: gold;
+    height: 50px;
+    clear:both;
+text-align: center;
+background-color: rgb(207, 130, 143);
+}
+
